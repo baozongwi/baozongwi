@@ -1,21 +1,19 @@
 # Hi there 👋
 
-Security Researcher | Web / Java
+Red Team |Security Researcher | AI for security
 
 ---
 
 ## Experience
 
-**奇安信科技集团 · 观星实验室**  
-安全研究员  
+QAX · Z-Team  
+
 2026.08 – present
 
-**北京长亭科技有限公司**  
-安全服务工程师  
+Chaitin Tech internship
 2026.03 – 2026.07
 
-**上海得物信息集团有限公司**  
-应用安全工程师  
+Dewu internship
 2025.08 – 2026.02
 
 ---
@@ -28,5 +26,5 @@ Security Researcher | Web / Java
 
 ## Contact
 
-Email: baozongwi@qq.com  
+Email: baozhongqi520@gmail.com 
 Website: https://baozongwi.xyz
