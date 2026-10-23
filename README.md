@@ -6,14 +6,14 @@ Red Team |Security Researcher | AI for security
 
 ## Experience
 
-QAX · Z-Team  
+QAX Z-Team internship
 
 2026.08 – present
 
 Chaitin Tech internship
 2026.03 – 2026.07
 
-Dewu internship
+DewuSec internship
 2025.08 – 2026.02
 
 ---
