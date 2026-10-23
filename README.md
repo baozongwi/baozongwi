@@ -1,13 +1,12 @@
 # Hi there 👋
 
-Red Team |Security Researcher | AI for security
+Red Team | Security Researcher | AI for security
 
 ---
 
 ## Experience
 
 QAX Z-Team internship
-
 2026.08 – present
 
 Chaitin Tech internship
