@@ -25,5 +25,4 @@ DewuSec internship
 
 ## Contact
 
-Email: baozhongqi520@gmail.com 
-Website: https://baozongwi.xyz
+baozhongqi520@gmail.com
